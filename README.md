@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  Hello ✌️ <br>
+  I am a <strong>Computer Systems Engineering student</strong> <br>
+  and <strong>Full Stack Web Developer</strong>, <br>
+  focused on building complete, efficient, and scalable web applications.
+</p>
 
-<!--
-**Dessie2/Dessie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h3 align="center">⚙️ Full Stack Skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React-orange" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20PHP%20%7C%20Laravel-green" />
+  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20PostgreSQL%20%7C%20Firebase-yellow" />
+  <img src="https://img.shields.io/badge/APIs-REST%20%7C%20JSON-blue" />
+</p>
+
+<hr>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dessie2&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dessie2&layout=compact&theme=dark" />
+</p>
+
+<hr>
+
+<p align="center">
+  💡 From UI design to backend logic and databases
+</p>
